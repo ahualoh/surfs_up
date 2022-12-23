@@ -2,7 +2,7 @@
  Module 9: Advanced Data Storage and Retrieval (using SQLAlchemy, SQLite, and Flask)
  
 ## Overview of the analysis: Explain the purpose of this analysis.
-We are interested in opening up an ice cream shop on the Hawaiian Island of Oahu... This analsysi specifically addresses the "investor", W. Avy's, request to compare the temperatures of June and December to get a general idea for weather patterns throughout the year. 
+We are interested in opening up an ice cream shop on the Hawaiian Island of Oahu... This analysis specifically addresses the "investor", W. Avy's, request to compare the temperatures of June and December to get a general idea for weather patterns throughout the year. 
 
 
 ## Results: 
