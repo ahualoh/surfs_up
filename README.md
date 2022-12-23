@@ -6,8 +6,12 @@ We are interested in opening up an ice cream shop on the Hawaiian Island of Oahu
 
 
 ## Results: 
-See <image1> and <image2> respectively for the summary statistics from both months. Of note, for June and December respectively...
+See the June and December charts for the summary statistics from both months. 
+
+![JUN](https://github.com/ahualoh/surfs_up/blob/main/June_temps.png)
+![DEC](https://github.com/ahualoh/surfs_up/blob/main/Dec_temps.png)
  
+Of note, for June and December respectively...
 - Avereage Temperatures: 74 degrees | 71 degrees
 - Standard Deviation: 3.26 | 3.75
 - Min & Max: 64 & 85 degrees | 56 & 83 degrees
